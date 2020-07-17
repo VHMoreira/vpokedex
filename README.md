@@ -12,7 +12,7 @@ That's my new Pokedex made with ReactJS
 
 ## Screen
 
-![screen image](https://github.com/VHMoreira/vpokedex/tree/master/images/screen.png)
+<img src="https://github.com/VHMoreira/vpokedex/blob/master/images/screen.png" width="800"/>
 
 ## How to install
 
