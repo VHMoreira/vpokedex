@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+}
+
+header div.appName{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header div.appName span{
+    font-size: large;
+    font-weight: 600;
+    color: azure;
+}
+
+header nav.navBar ul{
+    display: flex;
+    list-style: none;
+    margin-right: 50px;
+}
+
+header nav.navBar ul li{
+    color: rgb(77, 77, 77);
+    margin: 0 10px;
+    font-size: large;
+}
+
+header nav.navBar ul li:hover{
+    cursor: pointer;
+    color: azure;
+}
+
+header nav.navBar ul li.active{
+    color: azure;
+}
+
+header nav.navBar ul li.active:hover{
+    cursor: default;
+}
+
+section.pokemonGridList{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
